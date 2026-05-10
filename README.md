@@ -78,13 +78,3 @@ Profissional em transição para tecnologia, com sólida base em desenvolvimento
 ![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado_Contínuo-FFE194?style=flat-square)
 ![Visão de Negócio](https://img.shields.io/badge/Visão_de_Negócio-6C5B7B?style=flat-square)
 
----
-
-## 📌 Projetos em Destaque
-
-### [![EducaLink](https://img.shields.io/badge/EducaLink-📚-2ea44f)](https://github.com/zaqueu1226/EducaLink)
-**Plataforma que conecta pessoas para aprender e ensinar de qualquer lugar.**
-
-```html
-<!-- Tecnologias utilizadas -->
-HTML5 | CSS3 | JavaScript | Responsividade
